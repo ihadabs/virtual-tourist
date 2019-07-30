@@ -8,9 +8,9 @@ The app implementation contains two pages one is a map view where the user can d
 
 ### Make?
 In case you're wondering how can you make a similar project.
-1 - Learn Swift (Basics, Networking, Core Data)
-2- Flickr API or any other API (to get photos) 
-3- Passion ;)
+1. Learn Swift (Basics, Networking, Core Data)
+2. Flickr API or any other API (to get photos) 
+3. Passion ;)
 
 ### Try?
 if you want to try out, first, you'll have to clone this repo. Second, open the project with Xcode. The last thing you have to do is pressing that little button aka Run and tdaaa!
